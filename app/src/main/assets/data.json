@@ -1,0 +1,12 @@
+[
+  {"login": "user1", "password": "pass123"},
+  {"login": "user2", "password": "qwerty789"},
+  {"login": "user3", "password": "securePwd56"},
+  {"login": "user4", "password": "passphrase42"},
+  {"login": "user5", "password": "letmein2023"},
+  {"login": "user6", "password": "secretPass123"},
+  {"login": "user7", "password": "password123"},
+  {"login": "user8", "password": "testPass567"},
+  {"login": "user9", "password": "randomPwd88"},
+  {"login": "user10", "password": "access123"}
+]
